@@ -1,4 +1,4 @@
-# podcast-app-35f67.web.app
+# https://podcast-app-35f67.web.app/
 
 Apps to ask me anonymous questions. 
 All questions are saved to the Firebase database. 
